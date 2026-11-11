@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\POO GAYOSOOOOOO\DungeonSurvivor.Domain\bin\Debug\net8.0\DungeonSurvivor.Domain.deps.json
+C:\Users\Usuario\Desktop\POO GAYOSOOOOOO\DungeonSurvivor.Domain\bin\Debug\net8.0\DungeonSurvivor.Domain.dll
+C:\Users\Usuario\Desktop\POO GAYOSOOOOOO\DungeonSurvivor.Domain\bin\Debug\net8.0\DungeonSurvivor.Domain.pdb
+C:\Users\Usuario\Desktop\POO GAYOSOOOOOO\DungeonSurvivor.Domain\obj\Debug\net8.0\DungeonSurvivor.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\POO GAYOSOOOOOO\DungeonSurvivor.Domain\obj\Debug\net8.0\DungeonSurvivor.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\POO GAYOSOOOOOO\DungeonSurvivor.Domain\obj\Debug\net8.0\DungeonSurvivor.Domain.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\POO GAYOSOOOOOO\DungeonSurvivor.Domain\obj\Debug\net8.0\DungeonSurvivor.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\POO GAYOSOOOOOO\DungeonSurvivor.Domain\obj\Debug\net8.0\DungeonSurvivor.Domain.dll
+C:\Users\Usuario\Desktop\POO GAYOSOOOOOO\DungeonSurvivor.Domain\obj\Debug\net8.0\refint\DungeonSurvivor.Domain.dll
+C:\Users\Usuario\Desktop\POO GAYOSOOOOOO\DungeonSurvivor.Domain\obj\Debug\net8.0\DungeonSurvivor.Domain.pdb
+C:\Users\Usuario\Desktop\POO GAYOSOOOOOO\DungeonSurvivor.Domain\obj\Debug\net8.0\ref\DungeonSurvivor.Domain.dll
