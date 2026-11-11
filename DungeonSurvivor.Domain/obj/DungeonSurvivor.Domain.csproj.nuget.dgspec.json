@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\POO GAYOSOOOOOO\\DungeonSurvivor.Domain\\DungeonSurvivor.Domain.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\POO GAYOSOOOOOO\\TP_INTEGRADOR_POO2\\DungeonSurvivor.Domain\\DungeonSurvivor.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\POO GAYOSOOOOOO\\DungeonSurvivor.Domain\\DungeonSurvivor.Domain.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\POO GAYOSOOOOOO\\TP_INTEGRADOR_POO2\\DungeonSurvivor.Domain\\DungeonSurvivor.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\POO GAYOSOOOOOO\\DungeonSurvivor.Domain\\DungeonSurvivor.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\POO GAYOSOOOOOO\\TP_INTEGRADOR_POO2\\DungeonSurvivor.Domain\\DungeonSurvivor.Domain.csproj",
         "projectName": "DungeonSurvivor.Domain",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\POO GAYOSOOOOOO\\DungeonSurvivor.Domain\\DungeonSurvivor.Domain.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\POO GAYOSOOOOOO\\TP_INTEGRADOR_POO2\\DungeonSurvivor.Domain\\DungeonSurvivor.Domain.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\POO GAYOSOOOOOO\\DungeonSurvivor.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\POO GAYOSOOOOOO\\TP_INTEGRADOR_POO2\\DungeonSurvivor.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
